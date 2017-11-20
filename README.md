@@ -1,3 +1,3 @@
-# Unityi GitHub Test1 
+# Unityi GitHub Test1   
 
-##UnityデータをGitを使って管理しょう
+## UnityデータをGitを使って管理しょう 
